@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kyle/CLionProjects/Homework 3/bst.h
+
+C:/Users/Kyle/CLionProjects/Homework 3/jacobson.cpp
+iostream
+-
+queue
+-
+bst.h
+C:/Users/Kyle/CLionProjects/Homework 3/bst.h
+
